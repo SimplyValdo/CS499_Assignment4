@@ -163,6 +163,7 @@ function searchWeatherLocation(searchID, callback) {
     });
 }
 
+//Called it manually, instead of using get method
 //*** Use Json format ***//
 loadWeatherDataSet1();
 
