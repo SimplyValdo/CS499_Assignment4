@@ -1,3 +1,10 @@
+/*
+* Name: Ubaldo Jimenez Prieto
+* Date: March 15, 2017
+* CS 499
+* Assignment 4
+* */
+
 var elasticsearch = require('elasticsearch');
 var parseString = require('xml2js').parseString;
 var preFix = require('xml2js').processors.stripPrefix;
